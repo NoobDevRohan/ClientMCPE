@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: noobdevrohan.github.io/OnixMCPE/
 branding:
-  title: Onix MCPE :tr:
+  title: Onix MCPE
   label: Docs
 links:
   - text: Getting Started
