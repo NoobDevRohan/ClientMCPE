@@ -6,7 +6,7 @@ For copyright reason we can't share the name of the server
 Now you can show of Client in MCPE like PC!!! 😎😎🤯🤯🤯<br>
 # How to download it?
 
-1. Go to [Releases](https://github.com/NoobDevRohan/OnixMCPE/releases/latest)
+1. Go to [Releases](https://github.com/NoobDevRohan/ClientMCPE/releases/latest)
 2. Download `Client.mcpack`
 3. Open the `Client.mcpack` with Minecraft
 4. Go into settings >Resource packs> then enable Client MCPE resource pack
