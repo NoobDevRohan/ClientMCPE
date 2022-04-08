@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - Retype
+      - main
 
 jobs:
   publish:
