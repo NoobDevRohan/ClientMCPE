@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noobdevrohan.github.io/OnixMCPE/sitemap.xml.gz
+Sitemap: https://noobdevrohan.github.io/ClientMCPE/sitemap.xml.gz
