@@ -11,3 +11,9 @@ Now you can show of Client in MCPE like PC!!! 😎😎🤯🤯🤯<br>
 3. Open the `Client.mcpack` with Minecraft
 4. Go into settings >Resource packs> then enable Client MCPE resource pack
 5. It has custom GUI built in 😎
+
+
+
+
+
+####Goofy ahh moment 💀
